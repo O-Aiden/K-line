@@ -1,0 +1,11 @@
+- item: About
+  url: about/
+- item: Blog
+  url: ""
+- item: Category A
+  url: categories/development/
+- item: Category B
+  url: categories/golang/
+- item: K-line
+  url: tags/line/
+  
